@@ -25,7 +25,7 @@ const errorPage = `
   </body>
 </html>`;
 
-const jokes = array(
+const jokes = Array(
     {
         'q': "What do you call a very small valentine?",
         'a': "A valen-tiny!"
